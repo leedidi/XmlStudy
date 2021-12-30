@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 아래 DTD 내용을 토대로 XML 문서를 완성한다. -->
+<!-- 데이터는 자신이 좋아하는 가수의 곡 정보를 3곡 이상 등록한다. -->
+
+<!DOCTYPE compactDiscs
+[
+
+]>
+
+
+
+<compactDiscs>
+</compactDiscs>
